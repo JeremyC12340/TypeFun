@@ -1,0 +1,1 @@
+console.log('歡迎來到 TypeFun！');
